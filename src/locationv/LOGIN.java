@@ -38,6 +38,7 @@ public class LOGIN extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
         jPasswordField1 = new javax.swing.JPasswordField();
         jLabel4 = new javax.swing.JLabel();
+        jLabel5 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -80,16 +81,18 @@ public class LOGIN extends javax.swing.JFrame {
         jButton1.setBounds(300, 250, 124, 45);
         jPanel1.add(jPasswordField1);
         jPasswordField1.setBounds(270, 170, 172, 35);
-
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Gestion_locationV\\58972540-235e-4d9d-8679-0a10452e4b87.jpeg")); // NOI18N
         jPanel1.add(jLabel4);
-        jLabel4.setBounds(0, 0, 736, 400);
+        jLabel4.setBounds(0, 0, 0, 400);
+
+        jLabel5.setIcon(new javax.swing.ImageIcon("C:\\Users\\pc\\OneDrive\\Desktop\\LocationV\\58972540-235e-4d9d-8679-0a10452e4b87.jpeg")); // NOI18N
+        jPanel1.add(jLabel5);
+        jLabel5.setBounds(0, 0, 740, 400);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel1, javax.swing.GroupLayout.DEFAULT_SIZE, 791, Short.MAX_VALUE)
+            .addComponent(jPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, 734, javax.swing.GroupLayout.PREFERRED_SIZE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -181,6 +184,7 @@ public class LOGIN extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel5;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPasswordField jPasswordField1;
     private javax.swing.JTextField jTextField1;

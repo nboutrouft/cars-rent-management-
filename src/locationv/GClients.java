@@ -177,7 +177,7 @@ public class GClients extends javax.swing.JFrame {
         jPanel2.add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 484, 141, -1));
 
         jLabel10.setBackground(new java.awt.Color(255, 255, 255));
-        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Gestion_locationV\\salesman-woman-looking-car-car-showroom.jpg")); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Users\\pc\\OneDrive\\Desktop\\LocationV\\salesman-woman-looking-car-car-showroom.jpg")); // NOI18N
         jPanel2.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, -160, 1010, 810));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

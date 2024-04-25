@@ -202,7 +202,7 @@ public class RestutitionV extends javax.swing.JFrame {
         });
         jPanel2.add(Modifier, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 300, 130, 30));
 
-        jLabel9.setIcon(new javax.swing.ImageIcon("C:\\Gestion_locationV\\wallpaperbetter.com_1024x600.jpg")); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon("C:\\Users\\pc\\OneDrive\\Desktop\\LocationV\\wallpaperbetter.com_1024x600.jpg")); // NOI18N
         jPanel2.add(jLabel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(-10, 0, 1040, 590));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

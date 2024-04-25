@@ -105,7 +105,7 @@ public class Vmanagement extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(51, 51, 51));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Gestion_locationV\\travel_car_BMV_1741.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\pc\\OneDrive\\Desktop\\LocationV\\travel_car_BMV_1741.png")); // NOI18N
 
         jButton2.setBackground(new java.awt.Color(102, 51, 0));
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
@@ -256,7 +256,7 @@ public class Vmanagement extends javax.swing.JFrame {
 
         jPanel1.add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(283, 307, 755, 173));
 
-        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Gestion_locationV\\pexels-fwstudio-129731.jpg")); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon("C:\\Users\\pc\\OneDrive\\Desktop\\LocationV\\pexels-fwstudio-129731.jpg")); // NOI18N
         jPanel1.add(jLabel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(240, 0, 950, 580));
 
         jButton5.setText("Enregistrer");

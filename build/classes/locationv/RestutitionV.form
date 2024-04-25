@@ -394,7 +394,7 @@
         <Component class="javax.swing.JLabel" name="jLabel9">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Gestion_locationV\wallpaperbetter.com_1024x600.jpg"/>
+              <Image iconType="2" name="C:\Users\pc\OneDrive\Desktop\LocationV\wallpaperbetter.com_1024x600.jpg"/>
             </Property>
           </Properties>
           <Constraints>

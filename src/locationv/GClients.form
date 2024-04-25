@@ -332,7 +332,7 @@
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Gestion_locationV\salesman-woman-looking-car-car-showroom.jpg"/>
+              <Image iconType="2" name="C:\Users\pc\OneDrive\Desktop\LocationV\salesman-woman-looking-car-car-showroom.jpg"/>
             </Property>
           </Properties>
           <Constraints>

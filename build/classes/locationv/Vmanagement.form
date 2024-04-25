@@ -91,7 +91,7 @@
             <Component class="javax.swing.JLabel" name="jLabel1">
               <Properties>
                 <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="C:\Gestion_locationV\travel_car_BMV_1741.png"/>
+                  <Image iconType="2" name="C:\Users\pc\OneDrive\Desktop\LocationV\travel_car_BMV_1741.png"/>
                 </Property>
               </Properties>
             </Component>
@@ -424,7 +424,7 @@
         <Component class="javax.swing.JLabel" name="jLabel10">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="C:\Gestion_locationV\pexels-fwstudio-129731.jpg"/>
+              <Image iconType="2" name="C:\Users\pc\OneDrive\Desktop\LocationV\pexels-fwstudio-129731.jpg"/>
             </Property>
           </Properties>
           <Constraints>
